@@ -1,0 +1,252 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\arvay\\OneDrive\\Asztali g\u00E9p\\elte\\2\\OEP\\CitySimulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93EDA986-3A96-4100-B448-2A697CF5B738}|..\\CitySimulation.Tests\\CitySimulation.Tests.csproj|c:\\users\\arvay\\onedrive\\asztali g\u00E9p\\elte\\2\\oep\\citysimulation.tests\\core\\simulationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D454970-67E2-46F0-BDE0-D459EDDE0E1A}|CitySimulation.csproj|c:\\users\\arvay\\onedrive\\asztali g\u00E9p\\elte\\2\\oep\\citysimulation\\tourists\\othertourist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D454970-67E2-46F0-BDE0-D459EDDE0E1A}|CitySimulation.csproj|solutionrelative:tourists\\othertourist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D454970-67E2-46F0-BDE0-D459EDDE0E1A}|CitySimulation.csproj|c:\\users\\arvay\\onedrive\\asztali g\u00E9p\\elte\\2\\oep\\citysimulation\\tourists\\japanesetourist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D454970-67E2-46F0-BDE0-D459EDDE0E1A}|CitySimulation.csproj|solutionrelative:tourists\\japanesetourist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D454970-67E2-46F0-BDE0-D459EDDE0E1A}|CitySimulation.csproj|c:\\users\\arvay\\onedrive\\asztali g\u00E9p\\elte\\2\\oep\\citysimulation\\models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D454970-67E2-46F0-BDE0-D459EDDE0E1A}|CitySimulation.csproj|solutionrelative:models\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D454970-67E2-46F0-BDE0-D459EDDE0E1A}|CitySimulation.csproj|c:\\users\\arvay\\onedrive\\asztali g\u00E9p\\elte\\2\\oep\\citysimulation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D454970-67E2-46F0-BDE0-D459EDDE0E1A}|CitySimulation.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D454970-67E2-46F0-BDE0-D459EDDE0E1A}|CitySimulation.csproj|c:\\users\\arvay\\onedrive\\asztali g\u00E9p\\elte\\2\\oep\\citysimulation\\core\\simulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D454970-67E2-46F0-BDE0-D459EDDE0E1A}|CitySimulation.csproj|solutionrelative:core\\simulation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D454970-67E2-46F0-BDE0-D459EDDE0E1A}|CitySimulation.csproj|c:\\users\\arvay\\onedrive\\asztali g\u00E9p\\elte\\2\\oep\\citysimulation\\exceptions\\emptysimulationfileexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D454970-67E2-46F0-BDE0-D459EDDE0E1A}|CitySimulation.csproj|solutionrelative:exceptions\\emptysimulationfileexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D454970-67E2-46F0-BDE0-D459EDDE0E1A}|CitySimulation.csproj|c:\\users\\arvay\\onedrive\\asztali g\u00E9p\\elte\\2\\oep\\citysimulation\\exceptions\\invalidcitystatusexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D454970-67E2-46F0-BDE0-D459EDDE0E1A}|CitySimulation.csproj|solutionrelative:exceptions\\invalidcitystatusexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D454970-67E2-46F0-BDE0-D459EDDE0E1A}|CitySimulation.csproj|c:\\users\\arvay\\onedrive\\asztali g\u00E9p\\elte\\2\\oep\\citysimulation\\exceptions\\invalidtouristcountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D454970-67E2-46F0-BDE0-D459EDDE0E1A}|CitySimulation.csproj|solutionrelative:exceptions\\invalidtouristcountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D454970-67E2-46F0-BDE0-D459EDDE0E1A}|CitySimulation.csproj|c:\\users\\arvay\\onedrive\\asztali g\u00E9p\\elte\\2\\oep\\citysimulation\\states\\toodirtystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D454970-67E2-46F0-BDE0-D459EDDE0E1A}|CitySimulation.csproj|solutionrelative:states\\toodirtystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D454970-67E2-46F0-BDE0-D459EDDE0E1A}|CitySimulation.csproj|c:\\users\\arvay\\onedrive\\asztali g\u00E9p\\elte\\2\\oep\\citysimulation\\states\\perfectstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D454970-67E2-46F0-BDE0-D459EDDE0E1A}|CitySimulation.csproj|solutionrelative:states\\perfectstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D454970-67E2-46F0-BDE0-D459EDDE0E1A}|CitySimulation.csproj|c:\\users\\arvay\\onedrive\\asztali g\u00E9p\\elte\\2\\oep\\citysimulation\\states\\citystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D454970-67E2-46F0-BDE0-D459EDDE0E1A}|CitySimulation.csproj|solutionrelative:states\\citystate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D454970-67E2-46F0-BDE0-D459EDDE0E1A}|CitySimulation.csproj|c:\\users\\arvay\\onedrive\\asztali g\u00E9p\\elte\\2\\oep\\citysimulation\\states\\averagestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D454970-67E2-46F0-BDE0-D459EDDE0E1A}|CitySimulation.csproj|solutionrelative:states\\averagestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D454970-67E2-46F0-BDE0-D459EDDE0E1A}|CitySimulation.csproj|c:\\users\\arvay\\onedrive\\asztali g\u00E9p\\elte\\2\\oep\\citysimulation\\citysimulation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7D454970-67E2-46F0-BDE0-D459EDDE0E1A}|CitySimulation.csproj|solutionrelative:citysimulation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SimulationTests.cs",
+              "DocumentMoniker": "C:\\Users\\arvay\\OneDrive\\Asztali g\u00E9p\\elte\\2\\OEP\\CitySimulation.Tests\\Core\\SimulationTests.cs",
+              "RelativeDocumentMoniker": "..\\CitySimulation.Tests\\Core\\SimulationTests.cs",
+              "ToolTip": "C:\\Users\\arvay\\OneDrive\\Asztali g\u00E9p\\elte\\2\\OEP\\CitySimulation.Tests\\Core\\SimulationTests.cs",
+              "RelativeToolTip": "..\\CitySimulation.Tests\\Core\\SimulationTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T09:50:56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OtherTourist.cs",
+              "DocumentMoniker": "C:\\Users\\arvay\\OneDrive\\Asztali g\u00E9p\\elte\\2\\OEP\\CitySimulation\\Tourists\\OtherTourist.cs",
+              "RelativeDocumentMoniker": "Tourists\\OtherTourist.cs",
+              "ToolTip": "C:\\Users\\arvay\\OneDrive\\Asztali g\u00E9p\\elte\\2\\OEP\\CitySimulation\\Tourists\\OtherTourist.cs",
+              "RelativeToolTip": "Tourists\\OtherTourist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T20:31:24.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JapaneseTourist.cs",
+              "DocumentMoniker": "C:\\Users\\arvay\\OneDrive\\Asztali g\u00E9p\\elte\\2\\OEP\\CitySimulation\\Tourists\\JapaneseTourist.cs",
+              "RelativeDocumentMoniker": "Tourists\\JapaneseTourist.cs",
+              "ToolTip": "C:\\Users\\arvay\\OneDrive\\Asztali g\u00E9p\\elte\\2\\OEP\\CitySimulation\\Tourists\\JapaneseTourist.cs",
+              "RelativeToolTip": "Tourists\\JapaneseTourist.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T20:31:07.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\arvay\\OneDrive\\Asztali g\u00E9p\\elte\\2\\OEP\\CitySimulation\\Models\\City.cs",
+              "RelativeDocumentMoniker": "Models\\City.cs",
+              "ToolTip": "C:\\Users\\arvay\\OneDrive\\Asztali g\u00E9p\\elte\\2\\OEP\\CitySimulation\\Models\\City.cs",
+              "RelativeToolTip": "Models\\City.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAA8wGUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T20:29:38.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\arvay\\OneDrive\\Asztali g\u00E9p\\elte\\2\\OEP\\CitySimulation\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\arvay\\OneDrive\\Asztali g\u00E9p\\elte\\2\\OEP\\CitySimulation\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T20:28:34.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Simulation.cs",
+              "DocumentMoniker": "C:\\Users\\arvay\\OneDrive\\Asztali g\u00E9p\\elte\\2\\OEP\\CitySimulation\\Core\\Simulation.cs",
+              "RelativeDocumentMoniker": "Core\\Simulation.cs",
+              "ToolTip": "C:\\Users\\arvay\\OneDrive\\Asztali g\u00E9p\\elte\\2\\OEP\\CitySimulation\\Core\\Simulation.cs",
+              "RelativeToolTip": "Core\\Simulation.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAmwGAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T20:29:08.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmptySimulationFileException.cs",
+              "DocumentMoniker": "C:\\Users\\arvay\\OneDrive\\Asztali g\u00E9p\\elte\\2\\OEP\\CitySimulation\\Exceptions\\EmptySimulationFileException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\EmptySimulationFileException.cs",
+              "ToolTip": "C:\\Users\\arvay\\OneDrive\\Asztali g\u00E9p\\elte\\2\\OEP\\CitySimulation\\Exceptions\\EmptySimulationFileException.cs",
+              "RelativeToolTip": "Exceptions\\EmptySimulationFileException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-07T19:28:53.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InvalidCityStatusException.cs",
+              "DocumentMoniker": "C:\\Users\\arvay\\OneDrive\\Asztali g\u00E9p\\elte\\2\\OEP\\CitySimulation\\Exceptions\\InvalidCityStatusException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\InvalidCityStatusException.cs",
+              "ToolTip": "C:\\Users\\arvay\\OneDrive\\Asztali g\u00E9p\\elte\\2\\OEP\\CitySimulation\\Exceptions\\InvalidCityStatusException.cs",
+              "RelativeToolTip": "Exceptions\\InvalidCityStatusException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T20:35:53.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InvalidTouristCountException.cs",
+              "DocumentMoniker": "C:\\Users\\arvay\\OneDrive\\Asztali g\u00E9p\\elte\\2\\OEP\\CitySimulation\\Exceptions\\InvalidTouristCountException.cs",
+              "RelativeDocumentMoniker": "Exceptions\\InvalidTouristCountException.cs",
+              "ToolTip": "C:\\Users\\arvay\\OneDrive\\Asztali g\u00E9p\\elte\\2\\OEP\\CitySimulation\\Exceptions\\InvalidTouristCountException.cs",
+              "RelativeToolTip": "Exceptions\\InvalidTouristCountException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T20:36:00.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TooDirtyState.cs",
+              "DocumentMoniker": "C:\\Users\\arvay\\OneDrive\\Asztali g\u00E9p\\elte\\2\\OEP\\CitySimulation\\States\\TooDirtyState.cs",
+              "RelativeDocumentMoniker": "States\\TooDirtyState.cs",
+              "ToolTip": "C:\\Users\\arvay\\OneDrive\\Asztali g\u00E9p\\elte\\2\\OEP\\CitySimulation\\States\\TooDirtyState.cs",
+              "RelativeToolTip": "States\\TooDirtyState.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T20:30:19.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CityState.cs",
+              "DocumentMoniker": "C:\\Users\\arvay\\OneDrive\\Asztali g\u00E9p\\elte\\2\\OEP\\CitySimulation\\States\\CityState.cs",
+              "RelativeDocumentMoniker": "States\\CityState.cs",
+              "ToolTip": "C:\\Users\\arvay\\OneDrive\\Asztali g\u00E9p\\elte\\2\\OEP\\CitySimulation\\States\\CityState.cs",
+              "RelativeToolTip": "States\\CityState.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T20:30:05.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PerfectState.cs",
+              "DocumentMoniker": "C:\\Users\\arvay\\OneDrive\\Asztali g\u00E9p\\elte\\2\\OEP\\CitySimulation\\States\\PerfectState.cs",
+              "RelativeDocumentMoniker": "States\\PerfectState.cs",
+              "ToolTip": "C:\\Users\\arvay\\OneDrive\\Asztali g\u00E9p\\elte\\2\\OEP\\CitySimulation\\States\\PerfectState.cs",
+              "RelativeToolTip": "States\\PerfectState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T20:30:36.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AverageState.cs",
+              "DocumentMoniker": "C:\\Users\\arvay\\OneDrive\\Asztali g\u00E9p\\elte\\2\\OEP\\CitySimulation\\States\\AverageState.cs",
+              "RelativeDocumentMoniker": "States\\AverageState.cs",
+              "ToolTip": "C:\\Users\\arvay\\OneDrive\\Asztali g\u00E9p\\elte\\2\\OEP\\CitySimulation\\States\\AverageState.cs",
+              "RelativeToolTip": "States\\AverageState.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-06T20:30:27.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CitySimulation.csproj",
+              "DocumentMoniker": "C:\\Users\\arvay\\OneDrive\\Asztali g\u00E9p\\elte\\2\\OEP\\CitySimulation\\CitySimulation.csproj",
+              "RelativeDocumentMoniker": "CitySimulation.csproj",
+              "ToolTip": "C:\\Users\\arvay\\OneDrive\\Asztali g\u00E9p\\elte\\2\\OEP\\CitySimulation\\CitySimulation.csproj",
+              "RelativeToolTip": "CitySimulation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-06T20:30:42.413Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
